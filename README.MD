@@ -13,10 +13,7 @@ python3 main.py
 
 Our baselines included: <br>
 (1) History Average model (HA)<br>
-(2) Autoregressive Integrated Moving Average model (ARIMA)<br>
-(3) Support Vector Regression model (SVR)<br>
-(4) Graph Convolutional Network model (GCN)<br>
-(5) Gated Recurrent Unit model (GRU)<br>
+(2) Support Vector Regression model (SVR)<br>
 
 The python implementations of HA/SVR models were in the baselines.py; To run baselines: python3 baselines.py 
 
