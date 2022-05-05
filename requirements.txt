@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pandas
+tensorflow==1.13.2
+statsmodels
+sklearn
